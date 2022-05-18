@@ -35,3 +35,4 @@
     
   </div>
   
+ ![Snake animation](https://github.com/igoraserpac/igoraserpac/blob/output/github-contribution-grid-snake.svg)
