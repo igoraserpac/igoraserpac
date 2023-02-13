@@ -3,7 +3,6 @@
 - 🔭 Trabalhando atuamente em projetos pessoais.
 - 🌱 Estudando Django.
 - 👯 Procuro projetos Django open source para colaborar
-- 😄 Pronomes: Ele/Dele
 
 ##
 
