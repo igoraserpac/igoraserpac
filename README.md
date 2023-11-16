@@ -1,7 +1,7 @@
-### 😀 Olá! Sou o Igor Cunha, Desenvolvedor web.
+### 😀 Olá! Sou o Igor, estudante de Ciência da Computação.
 
 - 🔭 Trabalhando atuamente em projetos pessoais.
-- 🌱 Estudando Django.
+- 🌱 Estudando Segurança de dados.
 - 👯 Procuro projetos Django open source para colaborar
 
 ##
