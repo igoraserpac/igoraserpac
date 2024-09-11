@@ -1,8 +1,6 @@
 ### 😀 Olá! Sou o Igor, estudante de Ciência da Computação.
 
 - 🔭 Trabalhando atuamente em projetos pessoais.
-- 🌱 Estudando Segurança de dados.
-- 👯 Procuro projetos Django open source para colaborar
 
 ##
 
